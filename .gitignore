@@ -1,0 +1,21 @@
+# Secrets & credentials — KHÔNG commit các file này
+serviceAccountKey.json
+.env
+*.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
