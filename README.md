@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📝 MyNoteApp
 
 Ứng dụng quản lý ghi chú cá nhân được xây dựng với **FastAPI** (backend) và **Streamlit** (frontend), tích hợp **Firebase Authentication** và **Firestore**.
@@ -136,3 +137,6 @@ Truy cập: `http://localhost:8501`
 - **Không commit** `serviceAccountKey.json` lên GitHub
 - **Không commit** file `.env` hoặc bất kỳ file chứa secret nào
 - File `.gitignore` đã được cấu hình sẵn để tránh điều này
+=======
+# my_note_app
+>>>>>>> 7afa1dbcb6f22df2bd3f5b5b7b9bc8133c7654f4
